@@ -1,0 +1,12 @@
+body{
+	background-color: grey
+}
+#title{
+	color: white
+}
+.me{
+	color: red
+}
+#title:hover{
+	font-size: 60px
+}
